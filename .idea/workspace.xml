@@ -15,14 +15,22 @@
   <component name="ProjectId" id="1e2L7pLurxgchLFHXnBHAJ5YThv" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../PortableGit/git-cmd.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components/Profile/My Posts" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\dev\react\src\components\Profile\My Posts\Post" />
+      <recent name="G:\dev\react\src\components\Profile" />
+      <recent name="G:\dev\react\src\components\Profile\My Posts" />
+      <recent name="G:\dev\react\src\components\Navbar" />
+      <recent name="G:\dev\react\src\components\Header" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\dev\react\src\components\Profile\My Posts" />
       <recent name="G:\dev\testing\src" />
     </key>
   </component>
@@ -50,7 +58,8 @@
       <updated>1593514578365</updated>
       <workItem from="1593514581572" duration="2442000" />
       <workItem from="1593519612501" duration="10994000" />
-      <workItem from="1593531697730" duration="323000" />
+      <workItem from="1593531697730" duration="9043000" />
+      <workItem from="1593596832901" duration="1958000" />
     </task>
     <servers />
   </component>
@@ -62,7 +71,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

@@ -1,0 +1,21 @@
+.nav{
+    grid-area: n;
+    background-color: red;
+}
+
+.nav ul{
+    margin-left: 5px;
+    padding-left: 5px;
+}
+
+.nav li{
+    list-style-type: none;
+
+}
+.item{
+    color: white;
+}
+
+.item.active{
+    color: gold;
+}
