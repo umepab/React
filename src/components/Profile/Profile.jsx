@@ -1,18 +1,15 @@
 import React from "react";
 import s from './Profile.module.css';
 import MyPosts from "./My Posts/MyPosts";
+import ProfileInfo from "./ProfileInfo/ProfileInfo";
 
 const Profile = () => {
-    return <div>
+    return (
         <div>
-            <img src='https://fullhdwall.com/wp-content/uploads/2018/06/Free-Summer-Image.jpeg'/>
+            <ProfileInfo/>
+            <MyPosts/>
         </div>
-        <div>
-            ava+descr
-        </div>
-
-        <MyPosts/>
-    </div>
+    )
 }
 
 export default Profile;
