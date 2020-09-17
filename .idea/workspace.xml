@@ -22,26 +22,26 @@
   <component name="ProjectId" id="1e2L7pLurxgchLFHXnBHAJ5YThv" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components/Profile/ProfileInfo" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components/Dialogs/Message" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="G:\dev\react\src\components\Profile\ProfileInfo" />
-      <recent name="G:\dev\react\src\components\Settings" />
-      <recent name="G:\dev\react\src\components\Music" />
-      <recent name="G:\dev\react\src\components" />
-      <recent name="G:\dev\react\src\components\News" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="G:\dev\react\src\components\Profile\My Posts\Post" />
       <recent name="G:\dev\react\src\components\Profile" />
       <recent name="G:\dev\react\src\components\Profile\My Posts" />
       <recent name="G:\dev\react\src\components\Navbar" />
       <recent name="G:\dev\react\src\components\Header" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\dev\react\src\components\Dialogs\Message" />
+      <recent name="G:\dev\react\src\components\Dialogs\DialogItem" />
+      <recent name="G:\dev\react\src\components\Profile\ProfileInfo" />
+      <recent name="G:\dev\react\src\components\Settings" />
+      <recent name="G:\dev\react\src\components\Music" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -73,7 +73,24 @@
       <workItem from="1593698550900" duration="8350000" />
       <workItem from="1594813451199" duration="2761000" />
       <workItem from="1594894741122" duration="1388000" />
-      <workItem from="1594976700090" duration="15049000" />
+      <workItem from="1594976700090" duration="15520000" />
+      <workItem from="1595237554647" duration="1208000" />
+      <workItem from="1595245247720" duration="1026000" />
+      <workItem from="1595841143499" duration="629000" />
+      <workItem from="1595846508329" duration="599000" />
+      <workItem from="1596104231731" duration="995000" />
+      <workItem from="1596190706000" duration="1322000" />
+      <workItem from="1596193062818" duration="2321000" />
+      <workItem from="1599296913887" duration="1406000" />
+      <workItem from="1599744363721" duration="632000" />
+      <workItem from="1599748023730" duration="1794000" />
+      <workItem from="1599749842452" duration="758000" />
+      <workItem from="1600346886713" duration="1789000" />
+      <workItem from="1600348693012" duration="1803000" />
+      <workItem from="1600350513389" duration="1796000" />
+      <workItem from="1600352324799" duration="1020000" />
+      <workItem from="1600360190252" duration="1789000" />
+      <workItem from="1600362011045" duration="1136000" />
     </task>
     <servers />
   </component>
@@ -92,5 +109,16 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/redux/state.js</url>
+          <line>9</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
